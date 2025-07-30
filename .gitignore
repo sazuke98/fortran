@@ -1,4 +1,5 @@
-# File generati da Fortran
+/*
+!/*.*
 *.mod
 *.o
 *.a
