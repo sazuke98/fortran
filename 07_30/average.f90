@@ -14,7 +14,7 @@ program averagee
 
         end do
 
-        mean = summ / 10
+        mean = summ / size(v)
 
         print*, "The mean is: ", mean 
 
