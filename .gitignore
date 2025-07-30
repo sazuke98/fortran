@@ -1,0 +1,7 @@
+# File generati da Fortran
+*.mod
+*.o
+*.a
+*.so
+*.out
+bin/
